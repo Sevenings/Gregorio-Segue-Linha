@@ -11,11 +11,6 @@
 
 Gregório Segue Linha é o robô seguidor de linha criado para a competição do PET. Edital
 
-## Membros
-
-- Lucas 
-- Beatriz
-- (???)
 
 ## Datas
 
@@ -24,5 +19,12 @@ Gregório Segue Linha é o robô seguidor de linha criado para a competição do
 - Entrega do relatório: 24/05
 - Finalização dos protótipos: 13/06
 - Competição: 14/06
+
+
+## Membros
+
+- Lucas 
+- Beatriz
+- (???)
 
 

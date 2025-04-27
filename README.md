@@ -28,3 +28,10 @@ Gregório Segue Linha é o robô seguidor de linha criado para a competição do
 - (???)
 
 
+# TODO
+
+- Como vamos construir o Gregório?
+  - [x] Qual microcontrolador? (Esp32)
+  - [x] Quais motores? (Motores amarelinhos)
+  - [ ] Sensores?
+- [ ] Quais algoritmos vamos usar?

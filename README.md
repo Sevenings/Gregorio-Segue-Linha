@@ -12,9 +12,9 @@ Carteira de Identidade:
 
 Gregório Segue Linha é o robô seguidor de linha criado para a competição do PET.
 
-Site: https://pet.emc.ufg.br/p/competicao-das-engenharias
-Edital: https://files.cercomp.ufg.br/weby/up/993/o/Edital_01_ComPETi%C3%A7%C3%A3o_das_Engenharias.pdf
-Relatório: https://docs.google.com/forms/d/e/1FAIpQLSeuSRhJ4-fKnbuAWAdOXmQoeA-fs0_gK930PxDGGQhSlqV28g/viewform
+- Site: https://pet.emc.ufg.br/p/competicao-das-engenharias
+- Edital: https://files.cercomp.ufg.br/weby/up/993/o/Edital_01_ComPETi%C3%A7%C3%A3o_das_Engenharias.pdf
+- Relatório: https://docs.google.com/forms/d/e/1FAIpQLSeuSRhJ4-fKnbuAWAdOXmQoeA-fs0_gK930PxDGGQhSlqV28g/viewform
 
 
 ## Datas

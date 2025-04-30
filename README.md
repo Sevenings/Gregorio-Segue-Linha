@@ -3,7 +3,7 @@
 - Nome: Gregório Segue Linha
 - Nascimento: Em breve
 - Modelo: Segue Linha
-- Criadores: Lucas, Bia e (???)
+- Criadores: Lucas V, Bia e Lucas A
 - Versão: (em fase de planejamento)
 
 
@@ -23,9 +23,9 @@ Gregório Segue Linha é o robô seguidor de linha criado para a competição do
 
 ## Membros
 
-- Lucas 
+- Lucas V
 - Beatriz
-- (???)
+- Lucas A
 
 
 # TODO
@@ -35,3 +35,4 @@ Gregório Segue Linha é o robô seguidor de linha criado para a competição do
   - [x] Quais motores? (Motores amarelinhos)
   - [ ] Sensores?
 - [ ] Quais algoritmos vamos usar?
+

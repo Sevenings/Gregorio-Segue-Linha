@@ -28,9 +28,9 @@ Gregório Segue Linha é o robô seguidor de linha criado para a competição do
 
 ## Membros
 
-- Lucas V
 - Beatriz
 - Lucas A
+- Lucas V
 
 
 # TODO

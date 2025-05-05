@@ -1,6 +1,6 @@
 # Version 1.0
 
-SKETCH=teste-linha-reta.ino
+SKETCH=teste-movimentos.ino
 COMPLEMENTS=
 FQBN=arduino:avr:uno
 PORT=/dev/ttyUSB0
@@ -24,4 +24,6 @@ clear:
 	rm -r build
 
 all: compile run monitor
+
+crun: compile run
 

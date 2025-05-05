@@ -1,9 +1,9 @@
 # Version 1.0
 
-SKETCH=teste-linha-reta.ino
+SKETCH=teste-sensor.ino
 COMPLEMENTS=
 FQBN=arduino:avr:uno
-PORT=/dev/ttyUSB0
+PORT=/dev/ttyACM0
 BAUDRATE=115200
 
 # https://arduino.github.io/arduino-cli/0.35/getting-started/
@@ -24,4 +24,6 @@ clear:
 	rm -r build
 
 all: compile run monitor
+
+crun: compile run
 

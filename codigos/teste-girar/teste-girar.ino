@@ -10,13 +10,16 @@ void setup(){
   pinMode(PINO_IN3_R, OUTPUT);  // Define o pino IN1 como saída
   pinMode(PINO_IN4_R, OUTPUT);  // Define o pino IN2 como saída
 
-
   // Valores Iniciais
   parar();
 }
   
 void loop() {
-    frente();
+    girar_direita();
+    delay(4000);
+    parar();
+    delay(500);
+    girar_esquerda();
     delay(4000);
     parar();
     delay(4000);

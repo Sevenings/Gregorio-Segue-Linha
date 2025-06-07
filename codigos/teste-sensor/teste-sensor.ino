@@ -1,17 +1,21 @@
-#define PIN_LEITURA A0
+#include "benjamin.h"
 
 void setup() {
     Serial.begin(115200);
-
-    pinMode(PIN_LEITURA, INPUT);
+    setup_benjamin();
 }
 
 
-int leitura;
+int se = 0;
+int sd = 0;
 void loop() {
-    leitura = analogRead(PIN_LEITURA);
+    se = sensor_esquerdo();
+    sd = sensor_direito();
 
-    Serial.println(leitura);
+    Serial.print("leitura: ");
+    Serial.print(se);
+    Serial.print(" ");
+    Serial.println(sd);
 
     delay(100);
 }

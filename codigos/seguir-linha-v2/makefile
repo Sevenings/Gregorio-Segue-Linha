@@ -1,6 +1,6 @@
 # Version 1.0
 
-SKETCH=teste-sensor.ino
+SKETCH=seguir-linha-v2.ino
 COMPLEMENTS=
 FQBN=arduino:avr:uno
 PORT=/dev/ttyUSB0

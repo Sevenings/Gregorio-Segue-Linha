@@ -5,20 +5,17 @@ void setup(){
   Serial.begin(115200);
   
   // Configura os pinos de controle como saída
-  pinMode(PINO_IN1_L, OUTPUT);  // Define o pino IN1 como saída
-  pinMode(PINO_IN2_L, OUTPUT);  // Define o pino IN2 como saída
-  pinMode(PINO_IN3_R, OUTPUT);  // Define o pino IN1 como saída
-  pinMode(PINO_IN4_R, OUTPUT);  // Define o pino IN2 como saída
+  setup_benjamin();
 
   // Valores Iniciais
   parar();
 }
   
 void loop() {
-    frente();
-    delay(3000);
-    parar();
-    delay(500);
+    // frente();
+    // delay(3000);
+    // parar();
+    // delay(500);
 
     girar_direita();
     delay(3000);
@@ -30,8 +27,8 @@ void loop() {
     parar();
     delay(500);
 
-    tras();
-    delay(3000);
-    parar();
-    delay(4000);
+    // tras();
+    // delay(3000);
+    // parar();
+    // delay(4000);
 }

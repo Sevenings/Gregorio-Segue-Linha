@@ -29,5 +29,5 @@ void loop() {
       girar_esquerda();
     }
 
-    delay(1);
+    // delay(1);
 }
